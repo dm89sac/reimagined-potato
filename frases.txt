@@ -1,7 +1,2 @@
-Eu sou uma Frase
-Eu sou outra frase
-Nova Linha
+Eu sou uma frase
 
-Mais uma linha
-
-Gwfkgsfjgsjfngm,sfgs
